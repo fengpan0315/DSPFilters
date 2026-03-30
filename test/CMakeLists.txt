@@ -1,0 +1,2 @@
+add_executable(test_butterworth test_butterworth.cpp)
+target_link_libraries(test_butterworth DSPFilters)
