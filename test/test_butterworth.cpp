@@ -180,7 +180,7 @@ int main()
     highpassConfig.type = HIGHPASS;
     highpassConfig.order = 4;
     highpassConfig.sampleRate = 44100;
-    highpassConfig.cutoffFrequency = 500;
+    highpassConfig.cutoffFrequency = 1000;
     outputButterworthFilter(highpassConfig, "butterworth_highpass.txt");
 
     printf("\n=== Example 3: Butterworth Bandpass Filter ===\n");
