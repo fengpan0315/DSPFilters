@@ -33,8 +33,8 @@ THE SOFTWARE.
 
 *******************************************************************************/
 
-#include "DspFilters/Common.h"
-#include "DspFilters/PoleFilter.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/PoleFilter.h"
 
 namespace Dsp {
 

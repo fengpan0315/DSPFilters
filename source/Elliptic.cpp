@@ -33,8 +33,8 @@ THE SOFTWARE.
 
 *******************************************************************************/
 
-#include "DspFilters/Common.h"
-#include "DspFilters/Elliptic.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/Elliptic.h"
 
 namespace Dsp {
 

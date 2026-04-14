@@ -33,8 +33,8 @@ THE SOFTWARE.
 
 *******************************************************************************/
 
-#include "DspFilters/Common.h"
-#include "DspFilters/Cascade.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/Cascade.h"
 
 namespace Dsp {
 

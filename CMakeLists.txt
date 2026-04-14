@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project (DSPFilters CXX)
+project (dspfilters CXX)
 
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR}/source SOURCE_LIB)
 

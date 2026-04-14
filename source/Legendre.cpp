@@ -33,9 +33,9 @@ THE SOFTWARE.
 
 *******************************************************************************/
 
-#include "DspFilters/Common.h"
-#include "DspFilters/Legendre.h"
-#include "DspFilters/RootFinder.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/Legendre.h"
+#include "dspfilters/RootFinder.h"
 
 #include <sstream>
 #include <iostream>

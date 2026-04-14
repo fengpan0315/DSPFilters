@@ -83,7 +83,7 @@ An accompanying demonstration program that works on most popular platforms by us
 	* Charts to show magnitude, phase response and pole/zero placement
 	* Thread safety "best practices" for audio applications
 
-Here's a screenshot of the DspFilters Demo
+Here's a screenshot of the dspfilters Demo
 
 http://dspfilterscpp.googlecode.com/files/dspfiltersdemo.png
 
@@ -290,7 +290,7 @@ Filter family namespaces
 //
 
 // This is the only include you need
-#include "DspFilters/Dsp.h"
+#include "dspfilters/Dsp.h"
 
 #include <sstream>
 #include <iostream>

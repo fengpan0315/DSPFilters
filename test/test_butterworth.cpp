@@ -3,7 +3,7 @@
 #include <fstream>
 #include <string>
 
-#include "DspFilters/Dsp.h"
+#include "dspfilters/Dsp.h"
 
 enum FilterType {
     LOWPASS,
